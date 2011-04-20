@@ -4,7 +4,6 @@ author:
   - 'Mike Doherty <doherty@cpan.org>'
 build_requires:
   File::Find: 0
-  File::Path: 0
   File::Temp: 0
   Test::DZil: 0
   Test::More: 0.88
@@ -28,4 +27,4 @@ resources:
   bugtracker: https://github.com/doherty/Dist-Zilla-Plugin-Test-CPAN-Meta-JSON/issues
   homepage: http://p3rl.org/Dist::Zilla::Plugin::Test::CPAN::Meta::JSON
   repository: git://github.com/doherty/Dist-Zilla-Plugin-Test-CPAN-Meta-JSON.git
-version: 0.002
+version: 0.003

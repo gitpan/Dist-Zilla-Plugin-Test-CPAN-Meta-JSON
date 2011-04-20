@@ -2,7 +2,7 @@ package Dist::Zilla::Plugin::Test::CPAN::Meta::JSON;
 use strict;
 use warnings;
 # ABSTRACT: release tests for your META.json
-our $VERSION = '0.002'; # VERSION
+our $VERSION = '0.003'; # VERSION
 
 use Moose;
 use Moose::Autobox;
@@ -48,7 +48,7 @@ Dist::Zilla::Plugin::Test::CPAN::Meta::JSON - release tests for your META.json
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 SYNOPSIS
 
